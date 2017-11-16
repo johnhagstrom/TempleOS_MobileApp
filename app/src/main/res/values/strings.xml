@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TempleOS</string>
+    <string name="title_activity_nav">Nav</string>
+    <string name="title_godwords">GodWords</string>
+    <string name="title_livestream">Live-Stream</string>
+    <string name="title_chat">Chat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_godwords_fragment">Hello GodWords fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_livestream_fragment">Hello LiveStream fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_chat_fragment">Hello Chat fragment</string>
+</resources>
