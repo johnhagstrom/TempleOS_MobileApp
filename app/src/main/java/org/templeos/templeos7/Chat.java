@@ -52,7 +52,8 @@ public class Chat extends Fragment {
                              Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_chat, container, false);
         WebView myWebView = (WebView) view.findViewById(R.id.webview_ch);
-        String url = "http://tlk.io/templeos";
+        // String url = "http://tlk.io/templeos";
+        String url = "https://kiwiirc.com/client/irc.rizon.net/#templeos";
         WebSettings webSettings = myWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
         webSettings.setDomStorageEnabled(true);
