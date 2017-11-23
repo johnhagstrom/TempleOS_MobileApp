@@ -11,6 +11,6 @@ Download APK here: https://github.com/johnhagstrom/TempleOS_MobileApp/raw/master
 **TODO:**
 - Notifications
 - Livestream fullscreen option, volume controls, pause
-- GodWords landscape background issue
+- GodWords landscape background
 
 ![screenshot](https://i.imgur.com/O78ymfa.png)
