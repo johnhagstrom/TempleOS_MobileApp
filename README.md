@@ -1,6 +1,6 @@
 # TempleOS Mobile App
 
-Mobile access point for GodWords, livestream, and chat.
+Mobile interface for GodWords, livestream, and chat.
 
 ---
 
