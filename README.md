@@ -1,6 +1,6 @@
 # TempleOS Mobile App
 
-Mobile interface for GodWords, livestream, and chat.
+Mobile interface for GodWords, livestream, and chat (Android 4.0.3 and above).
 
 ---
 
