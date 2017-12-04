@@ -14,7 +14,8 @@ I'm looking to pass the torch with this app to someone who is more well-versed i
 
 **TODO:**
 - Notifications (local and push)
-- Livestream fullscreen option, volume controls, pause, resume after backing out and going back in
+- Livestream fullscreen option, volume controls, pause
+- Resume stream after backing out and going back in
 - Resume chat after backing out and going back in
 - GodWords landscape background
 
